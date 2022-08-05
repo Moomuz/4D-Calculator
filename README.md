@@ -7,6 +7,7 @@ This is my first project as a Technical Services Engineer at 4D, Inc. It is a no
    - Replaced default 4D menu with Calculator menu
    - Deleted mode and help menu
 - Added "About Calculator" form
+- Added keybaord shortcuts to Calculator buttons
  
 ### 8/1/2022 - Run Test Environment + Add Menu Bar
 - Run application in test mode
