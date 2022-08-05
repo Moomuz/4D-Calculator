@@ -1,6 +1,6 @@
 # 4D-Calculator
 
-This is my first project as a Technical Service Engineer at 4D, Inc. It is a non-scientific calculator application based off Mac OS Calculator. Below, I will be documenting my progress as I continue to work on this project.
+This is my first project as a Technical Services Engineer at 4D, Inc. It is a non-scientific calculator application based off Mac OS Calculator. Below, I will be documenting my progress as I continue to work on this project.
 
 ### 8/5/2022 - Building the Standalone Application
 - Fixed menu bar
